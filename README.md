@@ -18,7 +18,7 @@
 
 <h1 align="center">
  Hi there
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw1ODk3eXEwMDFobnl3bHE3Y2lubnFodXd5Z3VpMnllYWRvMmFhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
